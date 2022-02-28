@@ -1,0 +1,37 @@
+id: PB47BB163
+initial_creation_type: input
+source_metadata:
+  title: Lungta Series
+  language: fr
+  description: 'Texts on the theme of Lungta (rlung rta/klung rta) or Windhorse, including
+    chants to accompany the raising of prayer flags:'
+  volume:
+    e7de4aa3d18b49e2a0fbe311584bcc0a:
+      title: Windhorse Practice of Tārā
+      parent: Prayers
+    e0707863da154e4bbc1150c5a7e148d7:
+      title: Raising the Windhorse
+      parent: Prayers
+    4e6513a3a0aa4136a90605d4b3a60888:
+      title: Prayer to Gyaltsen Tsemö Pung Gyen
+      parent: Prayers
+    f6719015ee24434ab9fd97697fd72e1f:
+      title: Brief Gesar Windhorse Invocation
+      parent: Prayers
+    86462693d86641f6baacce6ba7fcecbd:
+      title: Brief Windhorse Invocation
+      parent: Prayers
+    f5fca11aaf404dd39e0edc4406ca509a:
+      title: Daily Lungta Recitation
+      parent: Prayers
+    91fa0b0988f94b68a4d948861ac5a589:
+      title: Short Windhorse Prayer to Gesar
+      parent: Prayers
+    e87a8681de9647f2a3ea22acf3ba5002:
+      title: The Swift Fulfilment of All Wishes—Offering the Flag of Windhorse
+      parent: Prayers
+    4ef680187d7d4e0183c76dab34c75ac8:
+      title: Brief Windhorse Practice of Tārā
+      parent: Prayers
+created_at: '2022-03-01T04:29:20.281290'
+last_modified_at: '2022-03-01T04:29:20.281293'
